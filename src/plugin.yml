@@ -1,0 +1,9 @@
+name: DummyPlugin
+version: 1.0
+author: Mxtery
+main: com.websiteofgames.dummyplugin.Main
+api-version: 1.18
+commands:
+  spawndummy:
+    description: Spawns dummy at sender's location
+    usage: /<command> <amount>
